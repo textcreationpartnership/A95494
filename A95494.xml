@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Duke of Tyrconnel's speech to the garrison and magistrates of the city of Lymerick, upon their late debates, for the surrender of the said place.</title>
+            <author>Tyrconnel, Richard Talbot, Earl of, 1630-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95494</idno>
+            <idno type="STC">Wing T3577B</idno>
+            <idno type="STC">ESTC R185845</idno>
+            <idno type="EEBO-CITATION">45578485</idno>
+            <idno type="OCLC">ocm 45578485</idno>
+            <idno type="VID">172397</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95494)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172397)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2628:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Duke of Tyrconnel's speech to the garrison and magistrates of the city of Lymerick, upon their late debates, for the surrender of the said place.</title>
+                  <author>Tyrconnel, Richard Talbot, Earl of, 1630-1691.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Lymerick, for A. Weston: and re-printed at London, from the original,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: in a tightly bound volume with some loss of text.</note>
+                  <note>Reproduction of original in the Christ Church (University of Oxford) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sieges --  Ireland.</term>
+               <term>Limerick (Limerick, Ireland) --  History --  Siege, 1690.</term>
+               <term>Ireland --  History --  War of 1689-1691.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb facs="tcp:172397:1"/>
+            <head>The Duke of Tyrconnel's SPEECH TO THE <hi>Garriſon and Magiſtrates</hi> OF THE City of LYMERICK, Upon Their late Debates, for the Sur<g ref="char:EOLhyphen"/>render of the ſaid Place.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>I Thought fit to Order your Attendance, and to give you my Sentiments upon the preſent <hi>State of Affairs;</hi> and as 'tis a matter of great Conſequence, ſo (aſſure your ſelves) I am not precipitately carry'd into theſe my laſt Reſolutions, but have conſulted both my Reaſon and my Honour, how far they are conſiſtent with ſuch Reſolves, together with the Nature of our <hi>
+                  <g ref="char:V">Ʋ</g>nhappy Maſter</hi>'s declining Cauſe.</p>
+            <p>I am ſatisfy'd (Gentlemen) of your <hi>Loyalty</hi> and <hi>Bravery,</hi> and cou'd yet wiſh (if it were not too late) That there was a <hi>Proper Subject</hi> to imploy 'em upon; I mean not al<g ref="char:EOLhyphen"/>together ſo hazardous and deſperate as This we are involv'd in; and I hope I may uſe a Soldiers Freedom, and yet modeſtly affirm, That <hi>I have no way betray'd my Commiſſion, or acted unworthy my Truſt, by a Miſmanagement of it;</hi> but have diſcharg'd every Poſt and Station I have paſt through, both as to my Imploy in <hi>France,</hi> and theſe <hi>late Revolutions;</hi> which <hi>laſt,</hi> (though not ſo ſucceſsful as the <hi>former</hi>) cannot with Juſtice be attributed to <hi>the Defects of my Conduct.</hi>
+            </p>
+            <p>It is not unknown to ſome of you, how the Calumny of ſome Perſons (who perhaps, had more of Envy than Loyalty) Summon'd my Attendance at <hi>the Court in</hi> England; where my Sincerity to our <hi>Religion and Liberties</hi> appear'd ſo Conſpicuous, that inſtead of receiving a Check for my Actions, I return'd with greater Honour, and was made <hi>Lord Deputy of this Kingdom,</hi> where I ſo manag'd Concerns, (I wiſh I could ſay, with as great Succeſs as Loyalty) that my <hi>Royal Maſter</hi> was very well ſatisfy'd, eſpecially in ſending him over a Supply of well Diſciplin'd Forces, to aſſiſt him againſt the [falſly ſtil'd] <hi>Invaſion in</hi> 1688; for now it plainly appears an Act of Heaven: Providence oftentimes ordering Affairs againſt the Determinations of Humane Prudence; and 'twas no common Change of Fate that attended the <hi>immediate Abdication,</hi> yet under all that Misfortune, <hi>my Loyalty ſtood firm and unmov'd;</hi> nor cou'd the falling Crown diminiſh my Duty, al<g ref="char:EOLhyphen"/>though it was enough to ſhock a <hi>Common Loyaliſt.</hi>—My Seizing Towns and Forts, my Diſciplining you in the Honourable Art of War, (when <hi>England</hi> call'd me Rebel for't) my bolder <hi>Loyalty and Zeel;</hi> nor wou'd I ſhew'd my Sword for <hi>England</hi>'s Decla<g ref="char:EOLhyphen"/>rations, believing that <hi>perfidious, Self-deſigning Monarch of</hi> France, was real in his Preten<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions to our <hi>Unhappy Abdicated Maſter;</hi> eſpecially when he firſt ſent the <hi>Marqueſs du Pont,</hi>
+               <pb facs="tcp:172397:2"/>to know the State of our Affairs, in order (as was pretended) to aſſiſt and re-eſtabliſh him in his Throne; but it appears, (by taking a View of the late Meaſures) that 'twas his own <hi>Grandeur, and not a Princely Pity, or a Rightful Juſtice that was the Motive.</hi> Nor has the Fate of <hi>Monſieur St. Ruth,</hi> (whoſe Cruelty and Ambition every one knew) give a fairer Teſtimony, if we may be allowed to make any Judgment of Cauſes by Effects for it looks a Natural piece of Juſtice, that ſuch Cruelty and Treachery as he us'd to ſome Parties in <hi>France,</hi> ſhou'd be repaid by their Brethren here in <hi>Ireland;</hi> only here's th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> difference, That he treated them with baſe Maſſacres, and they him with an Ho<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nourable Death in the Field.</p>
+            <p>I might add, That ſome, (if not all) of you are ſenſible that in one of the Councils call'd in <hi>Dublin,</hi> I gave 'om to underſtand, <hi>That we were threatened from</hi> England, <hi>at branded with the Odium of</hi> Traytors, <hi>if we proceeded; That we own'd only</hi> K.J. <hi>who ſent <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> no ſuch Orders; That we had Promiſes of Supplys from</hi> France; <hi>That we ſhou'd have O<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Royal Maſter's Preſence with us ſpeedily.—I alſo gave 'em Notice, That we had Seize the</hi> Proteſtants <hi>Effects, and yet wanted a greater Fund; That we muſt borrow from our ſelve to ſerve the</hi> King, <hi>and the</hi> Catholick Cauſe; <hi>That Unity of Mind was neceſſary; and That <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Master's Rights, Misfortunes, Commands, and Religion, ought to challenge our Care, and e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>deavour in order to a Retrieve.</hi>
+            </p>
+            <p>But I mention not this <hi>(Gentlemen)</hi> to boaſt of my Services, which wou'd be ver<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Ridiculous, in theſe <hi>reduced Circumſtances:</hi> But to Convince you, that there's no Misfor<g ref="char:EOLhyphen"/>tune,—wherein there cou'd be the leaſt hope of regaining our <hi>declining Privilege</hi> which could make me deſiſt my Endeavours, even from our firſt Loſſes before <hi>Lond0<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Derry,</hi> to the laſt Overthrow we received at <hi>Aghrim,</hi> and the Surrender of our only <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cruiting Sea port of <hi>Gallaway;</hi> whereby all Communication of Aſſiſtance was cut off, a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> now we have but a handful of Men to oppoſe <hi>a Numercus, Victorious Army.</hi> And yet con'd ſtill lead on our little Strength, and hope for Victory, if we had only Fleſh an Blood to Engage; But now we muſt expect to ſtruggle with <hi>Famine, and fruitleſs Exp<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ctation of further Relie<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>:</hi> Nor is there any avoiding theſe Miſerys at <hi>home,</hi> if we conſult ho<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> little our Dependancies muſt be from <hi>abroad,</hi> What ſhall we ſay about the <hi>Election</hi> an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Inauguration of Pope</hi> Innocent the XIIth, which is yet a deeper ſtab to our Cauſe? Ki<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Lewis,</hi> if he wou'd be real to our <hi>Royal Maſter,</hi> has now enough to do to ſecure himſe<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> The Concluding Treaty betwixt the <hi>Turk</hi> and <hi>Emperour;</hi> the Quieting of <hi>Scotland;</hi> an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our own Loſſes at the <hi>Boyne, Athlone,</hi> &amp;c. together with our preſent Circumſtance have no promiſing Indications of Hope or Liberty: And what is yet more than all this by our Obſtinacy we ſeem to fight againſt Heaven, who (in ſuch a peculiar manne<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Bleſſes both the <hi>Cauſe and Arms of their preſent Victorious Majeſties of</hi> England, by happ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Reformation of Manners at <hi>Home,</hi> and Succeſſes <hi>Abread:</hi> So that my laſt Reſolves a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>To Submit upon as Honourable Terms as can be got;</hi> and I am yet farther fixt in this my R<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſolution, by the Advices ſent me from <hi>Monſieur</hi> Duſſone, <hi>late Governour of</hi> Gallaw<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> who has alſo Submitted, and obtained for them that were with him, the Benefit of th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Lords Juſtices Proclamation,</hi> which gives them their Eſtates and Liberties.</p>
+            <p>
+               <hi>Gentlemen,</hi> I thought it convenient to mention theſe things to you; and I hope you will follow my Example, and Advice, and make uſe of your Intereſt in perſwading <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> under you to a general Reſignation to Their Majeſties, by laying hold of the Proclam<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tion, whereby you will divert the Miſery of a Siege, and prevent the Effuſion of mor<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Blood; for 'tis no longer a prudent Valour, but an inconſiderate Raſhneſs to be Obſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>nate.sAnd now <hi>(Gentlemen)</hi> I think nothing remains, but that we uſe our Re<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſon in this Extremity, by conſulting what Terms and Propoſals may be made before <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> too late. Theſe are my Sentiments of things, as they now ſtand. Your Advice an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Counſel is only wanting, and in my Opinion, 'tis neceſſary you come to a ſpeedy De<g ref="char:EOLunhyphen"/>termination, whilſt there's opportunity to do it; for 'tis in vain to think, that <hi>We on<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> can preſcribe Laws to Neceſſity, or the eſtabliſht Deſigns of Heaven, about the Revolutions <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Crowns and Kingdoms.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>Lymerick,</hi> for <hi>A. Weſton:</hi> And Re-printed at <hi>London,</hi> from the Original, 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
